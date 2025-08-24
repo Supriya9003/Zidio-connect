@@ -67,18 +67,19 @@ Step 8: Start the Server.
 Step 9: Open the Browser and navigate to http://localhost:8080
 
 Usage
-Effortless Donations: Users can effortlessly contribute to a chosen charity or cause through a straightforward and user-friendly interface.
+1.Effortless Donations: Users can effortlessly contribute to a chosen charity or cause through a straightforward and user-friendly interface.
 
 
-Secure Transactions: Ensure the security of financial transactions with Razorpay integration, providing users with a safe donation experience.
+2.Secure Transactions: Ensure the security of financial transactions with Razorpay integration, providing users with a safe donation experience.
 
 donation-entry1
-Transparent Records: Keep transparent records of all donation transactions, allowing users to track and verify their contributions.
+3.Transparent Records: Keep transparent records of all donation transactions, allowing users to track and verify their contributions.
 
-Anytime, Anywhere Access: Access the application from various devices, enabling users to make donations anytime, anywhere.
+4.Anytime, Anywhere Access: Access the application from various devices, enabling users to make donations anytime, anywhere.
 <img width="1110" height="583" alt="17560287657919134683615015052405" src="https://github.com/user-attachments/assets/04259311-01d9-4c1d-baf9-e400a5662e8a" />
-donation-entry2
-Promote Social Impact: Empower individuals to make a positive impact by supporting charitable initiatives through simple and secure online donations.
+5.Promote Social Impact: Empower individuals to make a positive impact by supporting charitable initiatives through simple and secure online donations.
+<img width="1117" height="600" alt="17560289646406851420807338044074" src="https://github.com/user-attachments/assets/efc7802d-b7a3-4560-a214-e94e97caa6bc" />
+
 donation-final
 Acknowledgment
 Thanks to Razorpay for secure transactions, React.js and Bootstrap communities for the user-friendly interface, and the open-source community for valuable contributions. Special gratitude to our development team and users for their dedication to creating a positive impact through our Donation Payment Integration Web Application.
