@@ -20,19 +20,19 @@ simplicity, enabling users to make a positive impact through hassle-free and sec
 5.Responsive Design: Ensure a responsive and adaptable design, allowing users to make donations conveniently from any device.
 
 # Installation
-Step 1: Firstly we install an STS(Spring Tool Suite) IDE.
+Step 1: Firstly we install an 'STS(Spring Tool Suite) IDE'.
 
-Step 2: Open the STS IDE, We Create the Spring Starter Project.
+Step 2: Open the STS IDE, We Create the 'Spring Starter Project'.
 
-Step 3: Write the Dependencies in Pom.XML File.
+Step 3: Write the Dependencies in 'Pom.XML' File.
 
-Step 4: Write the Database Connection in application.properties.
+Step 4: Write the Database Connection in 'application.properties'.
 
-Step 5: Create the entity file in src/main/java.
+Step 5: Create the entity file in 'src/main/java'.
 
-Step 6: Create the Service file in src/main/java.
+Step 6: Create the Service file in 'src/main/java'.
 
-Step 7: Create the Controller in src/main/java.
+Step 7: Create the Controller in 'src/main/java'.
 
 Step 8: Start the Server.
 
