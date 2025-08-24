@@ -2,20 +2,24 @@
 <img width="1118" height="614" alt="17560295970893460132622528522368" src="https://github.com/user-attachments/assets/27004ebd-45cc-42f2-9e18-488b4b15701a" />
 
 # Description
-Our web application empowers users to make donations securely and conveniently. Integrated with Razorpay, it ensures a safe and seamless payment experience. Users can effortlessly support various causes, contribute to charities, or fund initiatives with confidence. The application prioritizes simplicity, enabling users to make a positive impact through hassle-free and secure online donations.
+Our web application empowers users to make donations securely and
+conveniently. Integrated with Razorpay, it ensures a safe and
+seamless payment experience. Users can effortlessly support various causes, contribute to charities, or fund initiatives with confidence.
+The application prioritizes
+simplicity, enabling users to make a positive impact through hassle-free and secure online donations.
 
-Key Features
-Razorpay Integration: Secure and reliable payment processing through Razorpay, ensuring a trustworthy donation experience.
+# Key Features
+1.Razorpay Integration: Secure and reliable payment processing through Razorpay, ensuring a trustworthy donation experience.
 
-User-Friendly Interface: Intuitive design for a seamless and straightforward donation process, catering to users of all levels of tech-savviness.
+2.User-Friendly Interface: Intuitive design for a seamless and straightforward donation process, catering to users of all levels of tech-savviness.
 
-Single Charity Donation: Streamlined process focused on supporting a single charity or cause per donation.
+3.Single Charity Donation: Streamlined process focused on supporting a single charity or cause per donation.
 
-Transaction History: Maintain a transparent and accessible record of users' donation transactions for their reference.
+4.Transaction History: Maintain a transparent and accessible record of users' donation transactions for their reference.
 
-Responsive Design: Ensure a responsive and adaptable design, allowing users to make donations conveniently from any device.
+5.Responsive Design: Ensure a responsive and adaptable design, allowing users to make donations conveniently from any device.
 
-Installation
+# Installation
 Step 1: Firstly we install an STS(Spring Tool Suite) IDE.
 
 Step 2: Open the STS IDE, We Create the Spring Starter Project.
@@ -34,7 +38,7 @@ Step 8: Start the Server.
 
 Step 9: Open the Browser and navigate to http://localhost:8080
 
-Usage
+# Usage
 1.Effortless Donations: Users can effortlessly contribute to a chosen charity or cause through a straightforward and user-friendly interface.
 
 
