@@ -73,7 +73,6 @@ Usage
 2.Secure Transactions: Ensure the security of financial transactions with Razorpay integration, providing users with a safe donation experience.
 <img width="1120" height="605" alt="17560291361382684214568311775045" src="https://github.com/user-attachments/assets/34a7af49-cdcb-4462-b3ee-1b0ad76d2235" />
 
-donation-entry1
 3.Transparent Records: Keep transparent records of all donation transactions, allowing users to track and verify their contributions.
 
 4.Anytime, Anywhere Access: Access the application from various devices, enabling users to make donations anytime, anywhere.
@@ -81,6 +80,5 @@ donation-entry1
 5.Promote Social Impact: Empower individuals to make a positive impact by supporting charitable initiatives through simple and secure online donations.
 <img width="1117" height="600" alt="17560289646406851420807338044074" src="https://github.com/user-attachments/assets/efc7802d-b7a3-4560-a214-e94e97caa6bc" />
 
-donation-final
 Acknowledgment
 Thanks to Razorpay for secure transactions, React.js and Bootstrap communities for the user-friendly interface, and the open-source community for valuable contributions. Special gratitude to our development team and users for their dedication to creating a positive impact through our Donation Payment Integration Web Application.
