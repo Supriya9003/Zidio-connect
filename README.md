@@ -1,39 +1,7 @@
-# Zidio-connect
-Navigation Menu
-Fullstack-java1
+# Donation-Website-Payment-Integration
+<img width="1118" height="614" alt="17560295970893460132622528522368" src="https://github.com/user-attachments/assets/27004ebd-45cc-42f2-9e18-488b4b15701a" />
 
-Code
-Issues
-Pull requests
- 0 stars
- 0 forks
- 0 watching
- 1 Branch
- 0 Tags
- Activity
-Public repository
-manibhushan-codes/Fullstack-java1
-Name	
-manibhushan-codes
-manibhushan-codes
-5 days ago
-javafull1
-5 days ago
-HELP.md
-5 days ago
-README.md
-5 days ago
-mvnw
-5 days ago
-mvnw.cmd
-5 days ago
-pom.xml
-5 days ago
-Repository files navigation
-README
-Donation-Website-Payment-Integration
-donation-home
-Description
+#Description
 Our web application empowers users to make donations securely and conveniently. Integrated with Razorpay, it ensures a safe and seamless payment experience. Users can effortlessly support various causes, contribute to charities, or fund initiatives with confidence. The application prioritizes simplicity, enabling users to make a positive impact through hassle-free and secure online donations.
 
 Key Features
