@@ -1,8 +1,7 @@
-# Donation-Website-
-Payment-Integration
+# Donation-Website-Payment-Integration
 <img width="1118" height="614" alt="17560295970893460132622528522368" src="https://github.com/user-attachments/assets/27004ebd-45cc-42f2-9e18-488b4b15701a" />
 
-#Description
+# Description
 Our web application empowers users to make donations securely and conveniently. Integrated with Razorpay, it ensures a safe and seamless payment experience. Users can effortlessly support various causes, contribute to charities, or fund initiatives with confidence. The application prioritizes simplicity, enabling users to make a positive impact through hassle-free and secure online donations.
 
 Key Features
